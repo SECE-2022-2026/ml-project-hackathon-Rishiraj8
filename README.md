@@ -1,4 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/KPIpT6T5)
+
+
+#Explanation Video In YT
+[VIDEO LINK](https://www.youtube.com/watch?v=dWlgXe4Tqrs)
 # Crop Classification Web App using Flask and PyTorch
 
 This project is a web application for classifying agricultural crops using a deep learning model built with PyTorch. The web app is powered by Flask and allows users to upload an image of a crop, which is then classified by a pre-trained model. The model uses a convolutional neural network (CNN) based on the ResNet-18 architecture.
